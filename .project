@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>method_Overriding</name>
+=======
+	<name>JavaAssignment1</name>
+>>>>>>> c412ac1893bdd21bb600954486528fb4585c9db3
 	<comment></comment>
 	<projects>
 	</projects>
@@ -16,7 +20,11 @@
 	</natures>
 	<filteredResources>
 		<filter>
+<<<<<<< HEAD
 			<id>1775209271529</id>
+=======
+			<id>1775184358126</id>
+>>>>>>> c412ac1893bdd21bb600954486528fb4585c9db3
 			<name></name>
 			<type>30</type>
 			<matcher>
